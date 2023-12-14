@@ -3,6 +3,7 @@ Please combine this installation guide with "YOLOv5_Object_Detection.ipynb" file
 # Object-Detection-Project via YOLOv5 model
 1. There is a link on top of the codes that brings you to Google Colab Notebook codes
    * You need to have a Google Account
+   * On the setting, on top right of the Google Colab page, you can give permission to connect to GitHub and Google Drive
 
 2. Mount the codes to your Google Drive in order to run the codes in your Drive
    * Give permission if it asks permission to be connected to your Google-Drive
@@ -27,3 +28,5 @@ Please combine this installation guide with "YOLOv5_Object_Detection.ipynb" file
    * Enter the name and path of the detected image which is visible in the last line of previous code after running.
    * Detected objects will be saved each time in a new folder, so the folder path needs to be updated for each run. 
    
+Link to video explanation: 
+https://www.loom.com/share/d8c3353ad02642e58dd7dfd27a070de2?sid=2243aaae-1397-41ae-9d84-f52f2adb03e8
